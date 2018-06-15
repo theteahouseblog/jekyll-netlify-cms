@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sichuanesische Küche
+title: 'Sichuanesische Küche: Übersicht'
 categories: Kochen
 ---
 ## Light Soy Sauce
@@ -17,4 +17,21 @@ Chilibohnenpaste muss mit Fava-Bohnen hergestellt werden und nicht mit Soja-Bohn
     * Pixian Chili Bean Paste With Oil (Hong You Douban)
     * Sichuan Gao Fu Ji Food
 
-## Dou-chi (Fermented Black Beans)
+## Fermented Black Beans (Dou-chi)
+
+
+## Sichuan Pepper
+Sichuan Pfeffer (in den USA auch unter _Chinese prickly ash_ bekannt)
+**Lagerung** Im luftdichten Behältnis in der Tiefkühltruhe.
+
+### Einkaufen
+Guter Sichuanpfeffer erkennt man an
+* **Farbe**: die rote oder grüne Farbe ist noch zu erkennen und hat nicht eine komplett braune, leblose Farbe angenommen.
+* **Geruch**: selbst durch die luftdichte Packungen riecht er intensiv.
+* **Geschmack**: das intensive Aroma und betäubende Prickeln sind gut zu bemerken.
+
+### Sichuan Pfeffer Salz
+
+### Sichuan Pfeffer Öl
+TODO
+* frischen Sichuan Pfeffer (rot oder grün) über sehr kleiner Flamme für rund eine Stunde in Öl simmern lassen.
